@@ -1,0 +1,1001 @@
+feature,weight
+ability,0.0
+able,0.0
+absolutely,0.0
+act,0.0
+action,0.0
+action comic,0.0
+actor,0.0
+actual,1.5201118848680908e-06
+actually,0.0
+adam,0.0
+adaptation,0.0
+add,0.0
+advance,0.0
+adventure,0.0
+advice,0.0
+age,0.0
+agent,2.9825906995853876e-05
+ago,0.0
+alien,0.0
+alternate,0.0
+amazing,0.0
+amazon,0.0
+america,0.021431848002517233
+america chavez,0.0
+amp,0.0
+amp auto,0.0003208266135600971
+amp format,0.0
+amp http,0.0
+amp message,0.0
+amp subject,0.0
+animated,0.002109363827794528
+animated movie,0.0
+animated series,0.0
+answer,0.0
+ant,0.0
+ant man,0.0
+anti,0.002315729019210717
+anybody,0.0
+anymore,0.0
+app,0.0
+apparently,0.0
+appearance,0.0
+appeared,0.0
+appreciated,0.0
+aquaman,0.0016131745454157475
+arc,0.0
+aren,8.21815672327753e-05
+arkham,0.00039558054355109154
+arrow,0.0
+art,0.0
+asgard,0.0
+ask,5.355145261604231e-05
+asking,0.0
+assume,0.0
+atom,0.0
+attack,0.0
+attempt,0.0
+attention,0.0
+auto,0.0
+auto webp,0.0
+available,0.0
+avenger,0.018112360316050662
+away,0.0
+awesome,0.0
+background,0.0
+bad,0.0
+bane,0.0
+banner,0.0
+barbara,0.0
+based,0.0
+basically,0.0
+bat,0.0
+batgirl,0.0
+batman,0.03769917072493481
+batman comic,0.0
+batman robin,0.0
+batman superman,0.0
+battle,0.0
+beast,0.0
+beat,0.0
+beetle,0.00029685162307280157
+begin,0.0002627378486163451
+beginning,0.0
+believe,0.0
+ben,0.0
+best,0.0
+better,0.0005105446719779358
+big,0.0
+bird,0.0
+bit,0.00011611081387316893
+black,1.648626115233145e-05
+black bolt,0.0
+black canary,0.0
+black panther,0.0
+black widow,0.0
+blue,0.0
+blue beetle,0.0016513232262464679
+body,0.0
+bolt,0.0
+book,0.0
+book club,0.0
+born,0.0
+bought,0.0
+box,0.0
+boy,0.0
+break,0.0
+bring,0.0
+brother,0.0
+brought,0.0
+bruce,0.0
+bruce wayne,0.00023931372358630782
+build,0.0
+building,0.0
+bunch,0.0
+buy,0.0
+ca,0.0
+called,0.0
+came,0.0
+cameo,0.0
+canary,0.0
+canon,0.0
+cap,0.0010628318367943296
+captain,0.0
+captain america,0.009702879364941613
+captain marvel,0.0
+care,0.0002844349452805747
+carter,0.0
+cartoon,0.0
+case,0.0
+cat,0.0
+catch,0.0
+caught,0.0
+cause,0.0002602100118172794
+certain,0.0
+chance,0.0
+change,0.0
+changed,0.0
+character,1.0307218640181873e-05
+character like,0.0
+chavez,0.0
+check,0.0
+chi,0.0
+child,0.0
+choice,0.0
+christian,0.0
+chronological,0.0
+cinematic,0.0
+city,0.0
+civil,0.0
+civil war,0.0
+clark,0.0
+classic,0.0
+clearly,0.0
+close,0.0
+club,0.0
+collected,0.0
+collecting,0.0
+collection,0.0
+color,0.0
+com,0.0037358936432046225
+com dccomics,0.0
+com marvel,0.0
+com message,0.0
+com poll,0.016460533266401324
+come,8.032803267830603e-05
+comic,0.0
+comic book,0.0
+comic just,0.0
+comic wa,0.0
+coming,0.0
+comment,0.0
+complete,0.0
+completely,0.0
+compose,0.0
+concept,0.0
+confused,0.0
+connected,0.0006478908188665776
+considered,0.0
+considering,0.0
+constantine,1.1915673989586321e-06
+content,0.0
+continue,0.0
+continuity,0.0
+control,0.0
+cool,0.0
+copy,0.0
+corp,0.0
+cosmic,0.0
+costume,0.0
+couldn,0.0
+count,0.00011708951071356239
+couple,0.0
+course,0.0
+cover,0.0011911143513199372
+crazy,0.0
+create,0.0
+created,0.0
+credit,0.0
+credit scene,0.0
+crisis,0.004584368975661915
+crossover,0.0
+curious,0.0
+current,0.0
+currently,0.0
+cut,0.0
+dad,0.0
+daily,0.0006438370015913849
+damian,0.0004537777093000745
+daredevil,0.0025881709038941864
+dark,0.011038028746237098
+dark crisis,0.0
+dark knight,0.0
+darkhold,0.0
+darkseid,0.0
+date,0.0
+day,0.0
+dc,0.035787004305061924
+dc character,0.0
+dc comic,0.008861866485676885
+dc universe,0.00332836891573065
+dccomics,0.00020793955473333154
+dccomics comment,0.0
+dccomics wiki,0.0
+dceu,0.0
+dead,0.0
+deadpool,0.0
+deal,0.0
+death,0.00021707278542437252
+deathstroke,0.0
+decade,0.0
+decent,0.0
+decided,0.0
+definitely,0.0003568029054254485
+despite,0.0
+destroy,0.0
+detective,0.0
+dick,0.0
+dick grayson,0.0
+did,5.489503034373846e-06
+didn,8.992692942500028e-05
+die,0.0
+died,0.0
+different,0.0
+dimension,0.0
+direction,0.0
+discord,0.0
+discussion,0.0018077902578804805
+discussion http,0.0
+discussion thread,0.0
+disney,0.0
+dive,0.0
+doctor,0.0
+doctor strange,0.00022472332053908044
+doe,0.00011720635885088702
+doe know,0.0013471814577272747
+doesn,0.0
+doing,0.0005385967591904659
+don,0.00032597751972081047
+don know,0.0
+don think,1.2309686763724731e-05
+don want,0.0
+dont,0.0
+doom,0.0
+doomsday,0.0
+dr,0.000815739330345591
+dr strange,0.002124471146490792
+drake,0.00038187936009987647
+dumb,0.0
+dy,0.0
+early,0.0
+earth,0.0004682469749137156
+edition,6.205836778915709e-07
+ego,0.0
+end,0.0
+ended,0.0
+endgame,0.0
+ending,0.0
+energy,0.0
+enjoy,0.0
+enjoyed,9.648923467701234e-05
+entire,0.0
+episode,0.001082927871145465
+episode discussion,0.0
+era,0.0
+especially,0.0
+eternals,0.0
+eternity,0.0
+event,0.0
+eventually,0.0
+evil,0.0
+exactly,0.0
+example,0.0
+excited,0.0
+exist,0.0
+exists,0.0
+explain,0.0
+eye,0.0
+face,0.0
+fact,0.0
+fall,0.0
+family,0.0
+fan,0.0
+fandom,0.0
+fantastic,0.002626664799347721
+far,0.001912808745161181
+fate,0.0
+father,0.0
+favorite,8.867826336946185e-05
+favourite,0.0
+fear,0.0
+feature,0.0
+featuring,0.0
+feel,7.166620310285843e-07
+feel like,3.657532550530636e-06
+feeling,0.0
+felt,0.0
+felt like,0.0
+female,0.0
+fight,0.0
+fighting,0.0
+figure,0.0
+film,0.0
+final,0.0
+finally,0.0
+fine,0.0
+finished,0.0
+fit,0.0
+flash,0.0050483421171433965
+flashpoint,0.0
+focus,0.0
+follow,0.00010932795265822826
+following,0.0
+force,0.0
+forced,0.0001553138252617951
+forever,0.0
+form,0.0
+format,0.0
+format pjpg,0.0
+format png,0.0
+franchise,0.0
+free,0.0
+friend,0.0
+fuck,0.0
+fun,0.0
+funny,0.0
+fury,0.0
+future,0.0
+galactus,0.0
+galaxy,0.0
+game,0.0
+gas,0.0
+gauntlet,0.0
+gave,0.0
+general,0.0
+geoff,0.0007208970700849038
+geoff john,0.003082293258443611
+getting,0.0
+ghost,0.0
+ghost rider,0.0
+giant,0.0
+girl,0.0
+given,0.0
+giving,0.0
+god,0.0
+going,0.0
+going read,0.0
+golden,0.0
+golden age,0.0
+gone,0.0
+gonna,0.0
+good,0.00019666457457511474
+google,0.0
+gordon,0.0
+gorr,0.0
+got,0.0015351658264824311
+gotham,0.0019916202382056743
+grant,0.0
+graphic,0.0
+grayson,0.0006720715798246367
+great,0.0
+greatest,0.0
+green,0.006793498931009163
+green arrow,0.0
+green lantern,0.005701718992158223
+group,0.0
+gt,0.0
+gt marvel,0.00025270923397271734
+guardian,0.001828469388498548
+guardian galaxy,7.740082239564435e-05
+guess,0.0
+guide,0.0
+guy,0.0006688224915415687
+guy think,0.00031049248325666824
+ha,0.00043904160062858353
+hal,0.0034074960674020773
+half,0.0
+hammer,0.0
+hand,0.0
+happen,0.0
+happened,0.0
+happening,0.0
+happens,0.0002676205163981834
+happy,0.0
+hard,0.0
+harley,0.0
+harley quinn,0.0009225408787914191
+hasn,0.0
+hate,0.0003422245271174233
+haven,0.0
+haven read,0.0
+having,0.00036807370340097365
+hawkeye,0.0
+hawkman,0.0
+head,0.0
+hear,0.0
+heard,0.0003967278307635168
+heart,0.0
+hell,0.0
+hello,0.0
+help,1.2140710294577482e-06
+hero,1.0504435042547942e-05
+hey,0.0
+hi,0.0
+hickman,0.0
+high,0.0
+history,0.0
+hit,0.0
+home,7.92132667979918e-06
+honest,0.0
+honestly,0.0
+hood,0.0023659454443248494
+hope,0.0
+hoping,0.0
+house,0.0
+http,0.0030317509583956664
+http imgur,0.0
+http preview,0.0
+http redd,0.0
+http www,0.01288875187589703
+huge,0.0
+hulk,0.01330295242354334
+human,0.0
+hurt,0.0
+idea,5.688013392051501e-05
+identity,0.0
+idk,0.0
+illuminati,0.0
+im,0.0
+im going,0.0
+image,0.0
+imagine,0.0
+imgur,0.0
+imgur com,0.0
+immortal,0.0
+important,0.0
+include,8.859287280929208e-05
+including,0.0
+incredible,0.0
+individual,0.0
+infinite,0.0
+infinity,0.006382337949934694
+infinity gauntlet,0.0
+infinity stone,0.0
+infinity war,0.0012149467973289953
+info,0.0
+information,0.0
+injustice,0.0
+inside,0.0
+instead,0.0
+interested,0.0
+interesting,4.754724124663824e-05
+introduced,0.0
+involved,0.0
+iron,0.0
+iron man,0.006701726951812322
+isn,0.0
+issue,0.0
+jane,0.0
+jason,0.0006078421810000221
+job,0.0
+john,0.0003148565148216472
+join,0.0
+joke,0.0
+joker,0.002431439065346753
+jon,0.0
+journey,0.0
+jpg,0.0
+jpg width,0.0
+july,0.0
+jump,0.0
+just,3.1807363036847846e-05
+just finished,0.0
+just like,0.0
+just want,0.0
+justice,0.018333711267040295
+justice league,0.016698757109996153
+kamala,0.0002094457430461461
+kang,0.0
+kent,0.0
+kid,0.0
+kill,0.0
+killed,0.0
+killing,0.0
+kind,0.0004679024494998614
+kinda,0.0
+king,0.0
+knew,0.0
+knight,0.0
+know,0.0
+knowledge,0.0
+known,0.0
+lantern,0.009566768292457246
+lantern earth,0.0
+late,0.0
+later,0.0
+latest,0.0
+laugh,0.0
+le,0.0
+leader,0.0
+league,0.023655337552827987
+learn,0.0
+left,0.0
+legion,0.0
+let,0.0008236186167503431
+let know,0.0
+level,0.00029614634256484856
+life,0.0
+light,0.0
+like,4.433153458150314e-06
+like wa,0.0
+liked,0.0
+likely,0.0
+line,0.0
+link,0.0
+list,0.0
+literally,0.0
+little,0.0
+live,0.0
+live action,0.0
+living,0.0
+ll,0.0
+lois,0.0
+loki,0.0
+lol,0.0
+long,0.0
+look,3.308940361764233e-06
+look like,0.0
+looked,0.0
+looking,0.0
+lore,0.0
+lost,0.0
+lot,0.0
+love,0.0031291336305945107
+love thunder,0.008020199331263989
+loved,0.0
+lt,0.0004635323049077659
+machine,0.0
+madness,0.00904728082816458
+magic,0.0
+main,0.0
+major,0.0
+make,0.00012290022462337945
+make sense,0.0
+making,0.0
+man,0.0205884722100163
+manhunter,0.0
+mark,0.0
+martian,0.0014581392993960043
+martian manhunter,0.0
+marvel,0.05529627555956924
+marvel character,0.0
+marvel comic,0.006411797562100929
+marvel comment,0.0
+marvel episode,0.0008246198328597976
+marvel fan,0.0
+marvel movie,0.00017397573725254605
+marvel universe,0.005522860260059354
+mask,0.0
+material,0.0
+matter,0.0
+maybe,0.0
+mcu,0.029214422015926757
+mcu movie,0.0
+mean,0.0
+meant,0.00018476764442191317
+medium,0.0
+member,0.0
+memory,0.0
+men,0.010728003597350797
+mention,0.0
+mentioned,0.0
+message,0.0
+metal,0.00014215463568903493
+metropolis,0.0
+michael,0.0
+mighty,0.0
+mighty thor,0.0
+mile,0.002460803414086281
+mile morale,0.0
+mind,0.0
+minute,0.0
+miss,0.0
+missed,0.0
+missing,0.0
+mister,0.0
+mjolnir,0.0
+modern,0.0
+mom,0.0022146781533298977
+moment,0.0
+money,0.0
+monster,0.0
+month,9.049908745621175e-05
+moon,0.0013494192436575413
+moon knight,0.006756466628866904
+morale,0.0
+morbius,0.0
+morrison,0.0
+mother,0.0
+movie,0.012642291198979489
+movie amp,0.0
+movie wa,0.004386965831447087
+mr,0.0
+multiple,0.0
+multiversal,0.0
+multiverse,0.002359986553904611
+multiverse madness,0.005411579100956081
+mutant,0.0008732559294179995
+need,0.0
+need help,0.0
+needed,0.0
+new,0.001659996411116361
+new comic,0.0
+nice,0.0
+night,0.0
+nightwing,0.01045562489714611
+non,0.0
+normal,0.0
+noticed,0.0
+novel,0.0
+number,0.0
+obviously,0.0
+oh,0.0
+ok,0.0
+okay,0.0
+old,0.0
+omnibus,0.0
+ongoing,9.196892709826355e-05
+online,0.0
+open,0.0
+opinion,0.0
+order,0.0
+origin,0.0
+original,0.0
+outside,0.0
+overall,0.0
+page,0.0
+panel,0.0
+panther,0.00022861463344884864
+parker,0.0
+particular,0.0
+past,0.0
+people,0.00034139180586923514
+perfect,0.0
+person,0.0
+personality,0.0
+personally,0.0
+peter,0.001992100510408794
+phase,0.0
+pick,0.0
+picture,0.0
+piece,0.0
+pjpg,0.0
+pjpg amp,0.0
+place,0.0
+plan,0.0
+planet,0.0
+play,0.0
+played,0.0
+playing,0.0
+plot,0.0
+plus,0.0
+png,0.0004006145026778117
+png amp,0.0
+png width,0.0
+podcast,0.0
+point,0.0
+poll,0.01532747569704119
+poll http,0.01082077580143218
+popular,0.00017820481653381021
+possible,0.0
+possibly,0.0
+post,0.0
+poster,0.0
+potential,0.0
+power,0.0
+powerful,0.0
+pre,0.0
+present,0.0
+pretty,0.0
+preview,0.0
+preview redd,0.00022823608408029604
+previous,0.0010821127618727445
+prime,0.0
+probably,0.0
+problem,0.0
+project,0.0
+question,0.0
+quinn,0.0014739707840525085
+quite,0.0001290517645607248
+ragnarok,0.0009960333856509672
+random,0.0
+read,0.0003236792056266964
+read comic,0.00017099146955097902
+read supermanfrom,0.0
+reader,0.0
+reading,0.0
+reading comic,0.0
+reading order,0.0
+real,0.0
+real life,0.0
+reality,0.0
+really,0.0
+really like,2.1367973745322832e-05
+reason,0.0
+rebirth,0.006625430764213835
+recent,0.0
+recently,0.0
+recommend,0.0
+recommendation,0.0
+red,0.0
+red hood,0.0
+redd,0.0009879150186787307
+reddit,0.028531605194189534
+reddit com,0.020466963087026124
+reference,0.0
+related,0.0
+relationship,0.0
+release,0.0
+released,0.0
+remember,0.0
+removed,0.0
+rest,0.00019274609750136932
+result,0.0
+return,0.0
+revealed,0.0
+rider,0.0
+right,0.0
+ring,0.0
+robin,0.006478688107475561
+role,0.0
+room,0.0
+rule,0.0
+run,0.00024237631783063338
+running,0.0
+saga,0.0
+said,0.0
+sale,0.00019003444430941966
+save,0.0
+saw,0.0
+say,0.0
+saying,4.07237557259821e-07
+scarlet,0.00030043330290152153
+scarlet witch,0.003260529872218615
+scene,0.00016895805014984465
+scott,0.0
+screen,0.0
+season,0.0
+second,0.0
+secret,0.0
+secret war,0.0
+seeing,0.0
+seen,0.0003264107965673522
+self,0.0
+sense,0.000169878447979309
+separate,0.0
+series,0.0
+set,0.0
+share,0.0
+shazam,0.0
+shield,0.0
+short,0.0
+shot,0.0
+silver,0.0
+similar,0.0
+single,0.0
+skull,0.0
+small,0.0
+snap,0.0
+society,0.0002483111731980052
+soldier,0.0
+solo,0.0
+somewhat,0.0
+son,0.0017262441120417707
+soon,0.0
+sorry,0.00033350575984861334
+sort,0.0
+sound,0.0002814883788626737
+source,0.0
+space,0.0
+special,0.0
+specific,0.0
+specifically,0.0
+speed,0.0
+spider,0.027077273739883646
+spider man,0.011872116248474866
+spider verse,0.0
+spiderman,0.0022996629818670482
+spoiler,0.002603762121568024
+spotlight,0.0012693147858453446
+squad,0.0
+stand,0.0
+star,0.0
+starfire,0.0
+stark,0.0
+start,8.685613113973479e-08
+start reading,0.0016008687009217118
+started,0.0
+starting,0.0
+state,0.0
+status,0.0
+steel,0.0
+steph,0.0
+steve,1.8244004446080274e-05
+stone,0.0
+stop,0.0
+store,0.0
+story,7.233874922113525e-06
+storyline,0.0
+strange,0.020157263306344698
+strange multiverse,0.0
+strong,0.0
+stuff,0.0
+stupid,0.0
+style,0.0
+subject,0.0
+subject dcflair,0.0
+subreddit,0.0
+suggestion,0.0
+suicide,0.0
+suicide squad,0.0
+suit,0.0
+super,0.0
+super hero,0.0
+superboy,0.0
+supergirl,0.0
+superhero,0.0
+superheroes,0.0
+superman,0.04886208538539395
+superman comic,2.719560294859262e-05
+supermanfrom,0.0
+supposed,0.0
+sure,0.0002336788610645994
+surprise,0.0004064447761705002
+taken,0.0
+taking,0.0
+talk,0.0
+talking,0.0
+team,0.0
+teen,0.00922661557228405
+teen titan,0.00422062500820897
+tell,0.0
+telling,0.0
+term,0.0
+terrific,0.0
+th,0.0
+thank,0.0
+thanks,0.0
+thanks advance,0.0
+thanos,0.005414200854428297
+theory,0.0
+thing,0.0
+think,0.0
+think wa,0.0
+thinking,0.0
+thor,0.04421687732476997
+thor love,0.01192078753695237
+thor movie,0.0
+thought,0.0
+thought wa,0.0
+thread,0.0
+threat,0.0002612252544160935
+thunder,0.018418526683359814
+tie,0.00024305971480123408
+tim,0.007311698139934011
+tim drake,0.0005198989257681585
+time,0.0
+timeline,0.0
+titan,0.017188188142489444
+title,0.0
+today,0.0
+told,0.0
+tom,0.0
+tony,0.001976593669847716
+took,0.0
+tpb,0.0
+trade,0.0
+trailer,0.0
+travel,0.0
+tried,4.691315428992116e-06
+true,0.0
+try,0.0
+trying,0.0
+turn,0.0
+turned,0.00047128245077836787
+tv,0.0
+twitter,0.0
+type,0.0
+ultimate,0.0
+ultron,0.0
+understand,0.0
+unique,0.0
+universe,0.0
+unlimited,0.0
+use,0.0
+used,6.409851663119285e-05
+user,0.0
+using,0.0
+usually,0.0
+vampire,0.0
+variant,0.0
+ve,0.00035875324536513805
+ve read,0.0
+ve seen,0.000671188878935309
+venom,0.000557517890445519
+verse,0.0
+version,0.0
+video,0.0
+view,0.012424267530671733
+view poll,0.01172966510121518
+villain,0.0
+vision,0.0
+vol,0.0
+volume,0.0
+wa,0.0027763224822468795
+wa just,0.0
+wa wondering,0.00038597741525249837
+wally,0.0
+wally west,0.0
+wanda,0.010010521415800982
+wandavision,0.0014378693054675775
+wanna,0.0
+want,0.00020153397529035905
+want know,0.0
+want read,0.0
+wanted,0.0
+war,0.0014112010976320343
+wasn,0.0
+watch,0.0
+watched,0.0
+watching,0.0011409228604244653
+way,0.0
+way home,0.0
+wayne,0.0003657126004043537
+weapon,0.0
+web,0.0
+webp,0.0
+webp amp,0.0
+week,0.0
+weekly,0.0
+weird,0.0
+went,0.0
+west,0.0
+white,0.0
+widow,0.0
+width,0.0
+width amp,0.0
+wiki,0.0
+win,0.0
+winter,0.0
+winter soldier,0.0
+wish,0.0
+witch,0.0
+wolverine,0.0
+woman,0.0
+won,0.0
+wonder,0.005667991743636612
+wonder woman,0.005410049528327579
+wondering,0.0
+work,1.308037848784778e-07
+working,0.0
+world,0.0
+worth,0.0
+wouldn,0.0
+write,0.0
+writer,0.0
+writing,0.0
+written,0.0
+wrong,0.0
+www,0.015302763652758337
+www reddit,0.026531896328860924
+www youtube,0.0
+yeah,0.0
+year,1.2264596336018731e-05
+year ago,0.0
+yellow,0.0
+yes,0.0
+young,0.00020808154084141773
+young justice,0.0013856233012448087
+youtube,0.0
+youtube com,0.0
